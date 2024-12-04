@@ -1,1 +1,1 @@
-export * from './list-paints';
+export * from './paints';
